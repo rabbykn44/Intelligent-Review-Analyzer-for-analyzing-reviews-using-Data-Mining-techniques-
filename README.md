@@ -1,8 +1,4 @@
-Sure! Here's the **entire README content** written in a single **“all-in-one page” style**, ideal for including in your GitHub repo as `README.md`. Just copy and paste the following into a file named `README.md`:
 
----
-
-````markdown
 # Intelligent Review Analyzer
 
 A machine learning and data mining-based project that analyzes user reviews using natural language processing (NLP) and sentiment classification techniques. This tool can help identify positive, negative, or neutral sentiments from textual data such as product or service reviews.
